@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Customer Cloud Service</name>
+   <tag></tag>
+   <elementGuidId>608ab83b-d3b5-4949-b778-e3387868c365</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='productName']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#productName</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bc9b326e-b168-4e60-90b8-2b4051f80b6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>productName</value>
+      <webElementGuid>4ac22d5b-d023-4cb0-b2b3-9a36c5fbdbb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customer Cloud Service</value>
+      <webElementGuid>d644dbdf-5110-4c6a-b62c-e86c1d5e218c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;productName&quot;)</value>
+      <webElementGuid>f091a3cb-127a-435f-864b-004335c36887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_User/iframe_Customer Cloud Service_visualUserPage</value>
+      <webElementGuid>29a5ca7a-230f-472f-a189-cf5d491d80c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='productName']</value>
+      <webElementGuid>1005327c-8da5-4e31-938a-39f4a8310934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ouaf-fullpage-container']/div/div[2]/span</value>
+      <webElementGuid>910e19c0-1c73-45d2-9c7f-755395a263ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LCRA-Dev'])[1]/preceding::span[1]</value>
+      <webElementGuid>4d34b5c2-a8a8-4eae-9938-489ed9d969e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Reference'])[1]/preceding::span[1]</value>
+      <webElementGuid>e25a8ba3-3d9c-4878-a1f5-8a252083a856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Customer Cloud Service']/parent::*</value>
+      <webElementGuid>2c33ee76-889d-4493-a66e-ee80585c6b86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>1c0bf73a-2157-4628-ad20-cf1f579526f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'productName' and (text() = 'Customer Cloud Service' or . = 'Customer Cloud Service')]</value>
+      <webElementGuid>b40f6b18-c713-45fc-8c80-96a48d27831f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
