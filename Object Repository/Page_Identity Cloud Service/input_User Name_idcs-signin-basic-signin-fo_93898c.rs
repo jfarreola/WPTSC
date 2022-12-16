@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>111bad95-8827-464c-baaa-aa42873c7338</webElementGuid>
+      <webElementGuid>60c83101-1347-4796-bd85-2c03bb1484f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>idcs-signin-basic-signin-form-username</value>
-      <webElementGuid>f49bfed6-f6ca-4d02-93d7-b639a9d83550</webElementGuid>
+      <webElementGuid>c7c67fc1-c403-48d0-8288-66d9c7e8bf2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-idcs-placeholder-translation-id</name>
       <type>Main</type>
       <value>idcs-username-placeholder</value>
-      <webElementGuid>18dfed8a-7789-4bb7-ba1a-1a434d03d1d6</webElementGuid>
+      <webElementGuid>ed48b4ea-fdc7-4b5d-be01-789743ea1213</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a1bc23e7-4487-4cb8-a3b5-7fa111f24d77</webElementGuid>
+      <webElementGuid>8cbc0181-7826-4f17-97eb-35fb80f56d08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,15 @@
       <name>class</name>
       <type>Main</type>
       <value>oj-sm-12 oj-form-control oj-inputtext-nocomp</value>
-      <webElementGuid>e4abf727-4b57-4eb3-ab6f-f1dfdafaad70</webElementGuid>
+      <webElementGuid>27792184-a8cb-4b2f-a3d4-9da498d3cf37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>:class</name>
+      <type>Main</type>
+      <value>[[{'idcs-signin-rw-floating-input': isOracleEmployeeRedwood}]]</value>
+      <webElementGuid>4918fdcf-a02f-49d5-b1bc-9d569e6ca33f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +70,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>c60b55ba-6611-4106-b63a-021a5dd22e4c</webElementGuid>
+      <webElementGuid>4329f2ae-db1c-4a70-a208-c7f15ec3108b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +78,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>0ee1bb7a-19bb-4021-bee0-2f6f5b20e4f5</webElementGuid>
+      <webElementGuid>d782e6d9-a5f9-4275-a432-26ca905ae185</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +86,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>93bdabd6-2132-46ee-a518-8020ea35dbd0</webElementGuid>
+      <webElementGuid>f16df83f-f8d9-4711-ab1e-50804df30432</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +94,7 @@
       <name>:placeholder</name>
       <type>Main</type>
       <value>[[bundle('signin.usernamePlaceHolder')]]</value>
-      <webElementGuid>e6b41dd8-f94c-4c15-aff9-e9c789b890af</webElementGuid>
+      <webElementGuid>604e9550-37bd-4224-b3a3-3d842328d326</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +102,7 @@
       <name>:disabled</name>
       <type>Main</type>
       <value>[[$params.disableInput]]</value>
-      <webElementGuid>ceb2398a-a7c9-4e58-8e57-7f957ab86c91</webElementGuid>
+      <webElementGuid>055e8841-cbd1-4941-b688-0a275f142824</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +110,7 @@
       <name>data-bind</name>
       <type>Main</type>
       <value>value: username</value>
-      <webElementGuid>76a6bb90-b781-4c87-be40-c8708f7169d5</webElementGuid>
+      <webElementGuid>7707f743-b41e-492f-844d-c96e334560b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +118,7 @@
       <name>data-idcs-enable-right-click</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>88656639-6c8a-464f-bd3d-7defe60ec740</webElementGuid>
+      <webElementGuid>48967169-62a7-4cb8-8874-2ba87ca6b6c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -118,7 +126,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>User name or email</value>
-      <webElementGuid>279ab917-c23e-4f25-aab4-607de8389556</webElementGuid>
+      <webElementGuid>f1c99b8c-e4cd-48ca-9f4e-65893ae572cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,7 +134,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;idcs-signin-basic-signin-form-username&quot;)</value>
-      <webElementGuid>72599672-d953-4675-af2f-51820d1e01dd</webElementGuid>
+      <webElementGuid>d2fdf631-ed67-48d6-a8e1-0cd42fec7ac9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -134,15 +142,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='idcs-signin-basic-signin-form-username']</value>
-      <webElementGuid>b8384736-ada5-4e7c-b2de-8abd75737c42</webElementGuid>
+      <webElementGuid>8687a5a9-be90-4ce4-be96-09f9df039c50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='idcs-app-shell-signin-background']/div/div[2]/div/div/oj-module/div/oj-module/div/div/div/input</value>
-      <webElementGuid>49a33391-d7cd-4d7b-bcd4-9fc9d920324c</webElementGuid>
+      <value>//div[@id='idcs-app-shell-signin-background']/div/div[2]/div/div/oj-module/div/oj-module/div/div/div/div/div/input</value>
+      <webElementGuid>ec78b77c-3976-482a-9b44-3386f8217257</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>116d2467-7a92-4271-824e-05ff1e49d0e5</webElementGuid>
+      <webElementGuid>dfe2be46-7d51-4c7c-a702-3fd65e34e7c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,6 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'idcs-signin-basic-signin-form-username' and @type = 'text' and @placeholder = 'User name or email']</value>
-      <webElementGuid>ac8b7cc3-f550-4e3c-bca8-9fa9bb78a131</webElementGuid>
+      <webElementGuid>3d2ca8df-3788-4e72-a7a7-055db3d8c4df</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

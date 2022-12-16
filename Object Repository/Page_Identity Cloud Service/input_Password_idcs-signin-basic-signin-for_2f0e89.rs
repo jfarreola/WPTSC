@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>56b040f2-07aa-42ad-bc55-27bdb8b6e79d</webElementGuid>
+      <webElementGuid>a23cbad3-4d17-44d6-95a9-77d6dee3ecff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>51c0eb11-218d-4666-a7c9-cd62c4b26222</webElementGuid>
+      <webElementGuid>bb06091c-ac74-4381-aad5-6b88eb92a507</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>f2e92328-02ea-4767-af4c-8bfceaa2df0b</webElementGuid>
+      <webElementGuid>38673732-5a06-494a-a2a0-14dd437a4086</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oj-inputpassword-input oj-component-initnode</value>
-      <webElementGuid>a00ed90f-626a-4ec2-a7b7-0aa604d84ea3</webElementGuid>
+      <webElementGuid>bc7e21f8-38e9-406d-bb0a-b235902538a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>idcs-signin-basic-signin-form-password|input</value>
-      <webElementGuid>81973ac4-29af-4ad2-bc56-c617e764e2e7</webElementGuid>
+      <webElementGuid>59ff6695-0e64-46db-8ac5-172bf3319316</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;idcs-signin-basic-signin-form-password|input&quot;)</value>
-      <webElementGuid>6ad41ac3-a68b-4444-aef8-c3b005cfc917</webElementGuid>
+      <webElementGuid>37d3ab7d-7451-4e3b-a287-6d1fe89f104e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='idcs-signin-basic-signin-form-password|input']</value>
-      <webElementGuid>35621033-b443-42a0-97c9-458b4c50b5d6</webElementGuid>
+      <webElementGuid>74ef1e39-4420-4a60-90cf-20952902cd23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//oj-input-password[@id='idcs-signin-basic-signin-form-password']/input</value>
-      <webElementGuid>d9b16ca1-23e6-43b4-bf3f-47286d7bf9c5</webElementGuid>
+      <webElementGuid>99d2f836-5b6f-4abc-85e5-6c7c61660f30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//oj-input-password/input</value>
-      <webElementGuid>ce78ade6-cdb5-4012-ba99-43dc17230a0e</webElementGuid>
+      <webElementGuid>36b946cd-0049-4bde-b66f-a052e28daa12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @placeholder = 'Password' and @id = 'idcs-signin-basic-signin-form-password|input']</value>
-      <webElementGuid>fddfc8f8-0a31-412a-ba78-3bdf64f3634e</webElementGuid>
+      <webElementGuid>2e21edb0-e1b4-40b0-8179-10111ac2189d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
